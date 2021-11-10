@@ -1,0 +1,7 @@
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\W0455178\OneDrive - Nova Scotia Community College\VisualStudioProjects\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

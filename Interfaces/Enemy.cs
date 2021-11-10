@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Interfaces
 {
-    class Enemy
+    abstract class Enemy : IDamageable
     {
+        //classes are inherited,
+        //interfaces are implemented
+        public Enemy()
+        {
+            Console.WriteLine("Enemy Constructed");
+        }
+
+        public void TakeDamage()
+        {
+            Console.WriteLine("Enemy took damage");
+        }
     }
 }
